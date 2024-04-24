@@ -1,2 +1,4 @@
 # Pie-Day-Dataset
-An analysis to gain insight into sales of pie, customer preference and Business Performance
+
+### Dahel internship project
+An analysis of pie-day data to gain insight into sales of pie, customer preference and Business Performance.
