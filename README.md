@@ -12,3 +12,6 @@ The data used in this project was compiled and analyzed as part of my internship
 
 - [Project Overview](#project-Overview)
 - [Data Source and Tools](#data-source)
+- [Data Processing](#data-processing)
+- [Insight](#insight)
+- [Recommendation](#recommendation)
