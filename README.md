@@ -12,7 +12,8 @@ The data used in this project was compiled and analyzed as part of my internship
 
 - [Project Overview](#project-overview)
 - [Data Dictionary](#data-dictionary)
-- [Data Source & Tools](#data-source-&-Tools)
+- [Data Sources](data-sources)
+- [Data Tools](data-tools)
 - [Data Processing](#data-processing)
 - [Dashboard](#dashboard)
 
