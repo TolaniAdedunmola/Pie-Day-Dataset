@@ -40,10 +40,7 @@ The pie-day dataset is designed to provide a glimpse into potential attributes a
 | Organic?               | Indicates whether the pie is organic or not                                 |
 | Total Cost             | The total cost associated with the order, calculated as Quantity * Cost      |
 
-### Description of "Total Cost" Field:
-- **Total Cost**: The total cost of the order, calculated as the product of the quantity of pies ordered (`Quantity`) and the cost per unit (`Cost`). This field represents the overall monetary amount spent on pies for each order.
 
-Please refer to this data dictionary for understanding the structure and meaning of the columns in the Pie Day dataset. If you have any questions or require further information, feel free to reach out!
 
 ## Dataset Usage
 You can download the dataset file from [here](link_to_dataset_file).
