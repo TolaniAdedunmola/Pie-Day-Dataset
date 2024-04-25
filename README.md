@@ -10,11 +10,11 @@ The data used in this project was compiled and analyzed as part of my internship
 
 ### Content
 
-- [Project Overview](#project-Overview)
-- [Data Source and Tools](#data-source)
-- [Data Processing](#data-processing)
-- [Insight](#insight)
-- [Recommendation](#recommendation)
+- [Project Overview](#project-overview)
+- [Data Dictionary](#data-dictionary)
+- [Data Source and Tools](data-source)
+- [Data Processing](data-processing)
+- [Dashboard](#dashboard)
 
 # Project Overview 
 
@@ -47,14 +47,14 @@ Download Dataset
 [Here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTolaniAdedunmola%2FPie-Day-Dataset%2Fmain%2FPie%2520Day%2520Dataset.xlsx&wdOrigin=BROWSELINK)
 
 
-#Data Processsing
+# Data Processsing
 - The Data was Transformed in Power Query
 - No cleaning was done because coumn quality was 100%, data type was accurate, there were no missing values,duplicate values or errorin the data.
 - Data was loaded into Power BI
 
-#Dashb0ard
+# DashBoard
 <!-- Banner Text -->
-<img src="">
+<img src="https://github.com/TolaniAdedunmola/Pie-Day-Dataset/blob/main/Pie%20day%20data%20dashboard.PNG">
 
 
 
