@@ -52,7 +52,9 @@ Download Dataset
 - No cleaning was done because coumn quality was 100%, data type was accurate, there were no missing values,duplicate values or errorin the data.
 - Data was loaded into Power BI
 
-#Insight
+#Dashb0ard
+<!-- Banner Text -->
+<img src="">
 
 
 
