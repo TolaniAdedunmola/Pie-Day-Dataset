@@ -7,7 +7,7 @@ An analysis of pie-day data to gain insight into sales of pie, customer preferen
 <img src="https://github.com/TolaniAdedunmola/Pie-Day-Dataset/blob/main/pie%20image.jpg">
 
 The data used in this project was compiled and analyzed as part of my internship experience at Dahel Techies.  
-(image was generated and modified on canva.com)
+(image was generated and modified on [Canva]("https://www.canva.com)
 
 ### Content
 
@@ -44,7 +44,7 @@ The pie-day dataset is designed to provide a glimpse into potential attributes a
 
 
 ## Dataset Usage
-You can download the dataset file from Download Dataset[Here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTolaniAdedunmola%2FPie-Day-Dataset%2Fmain%2FPie%2520Day%2520Dataset.xlsx&wdOrigin=BROWSELINK)
+You can download the dataset file from Download Dataset [Here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTolaniAdedunmola%2FPie-Day-Dataset%2Fmain%2FPie%2520Day%2520Dataset.xlsx&wdOrigin=BROWSELINK)
 
 
 
