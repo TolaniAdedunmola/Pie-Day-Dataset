@@ -13,7 +13,6 @@ The data used in this project was compiled and analyzed as part of my internship
 - [Project Overview](#project-overview)
 - [Data Dictionary](#data-dictionary)
 - [Data Source](#data-source)
-- [Data Tools](#data-tools)
 - [Data Processing](#data-processing)
 - [Dashboard](#dashboard)
 
