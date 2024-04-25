@@ -21,9 +21,21 @@ The data used in this project was compiled and analyzed as part of my internship
 The pie-day dataset is designed to provide a glimpse into potential attributes and entries of pie-day dataset which can be used for analysis and insight of pie sales, customer behavior and Business Performance. 
  The dataset contains Order No,Order Date, Month/Year,Day of Week, Pie Flavor, Quantity, Cost, Slice Or Whole Pie, Pre-Order/In-Store Purchase, Organic?.
 
-## Data Dictionary 
-| column  name.     |Description.  |Data Type
 
+## Data Dictionary
+
+| Column Name          | Description                                             | Data Type       |
+|----------------------|---------------------------------------------------------|-----------------|
+| Order NO             | Unique identifier for each order                         | Alphanumeric    |
+| Order Date           | Date when the order was placed                           | Date (YYYY-MM-DD) |
+| Month/Year           | Month and year of the order                              | String (MMM-YYYY) |
+| Day of Week          | Day of the week corresponding to the order date          | String          |
+| Pie Flavor           | Flavor of the pie                                        | String          |
+| Quantity             | Number of pies ordered                                   | Integer         |
+| Cost                 | Total cost associated with the order                      | Float (currency)|
+| Slice Or Whole Pie   | Indicates if the order is for a slice or a whole pie     | String          |
+| Pre-Order/In-Store Purchase | Specifies if the pie was pre-ordered or purchased in-store | String      |
+| Organic?             | Indicates if the pie is organic                           | Boolean (True/False) |
 
 
 
