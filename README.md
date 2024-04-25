@@ -52,7 +52,7 @@ Download Dataset
 
 # Data Processsing
 - The Data was Transformed in Power Query
-- No cleaning was done because coumn quality was 100%, data type was accurate, there were no missing values,duplicate values or errorin the data.
+- No cleaning was done because column quality was 100%, data type was accurate, there were no missing values,duplicate values or errorin the data.
 - Data was loaded into Power BI.
 
 # DashBoard
