@@ -19,4 +19,11 @@ The data used in this project was compiled and analyzed as part of my internship
 # Project Overview 
 
 The pie-day dataset is designed to provide a glimpse into potential attributes and entries of pie-day dataset which can be used for analysis and insight of pie sales, customer behavior and Business Performance. 
- The dataset contains Order No,Order Date, Month/Year,Day of Week, Pie Flavor, Quantity, Cost, Slice Or Whole Pie, Pre-Order/In-Store Purchase, Organic?  
+ The dataset contains Order No,Order Date, Month/Year,Day of Week, Pie Flavor, Quantity, Cost, Slice Or Whole Pie, Pre-Order/In-Store Purchase, Organic?.
+
+## Data Dictionary 
+| column  name.     |Description.  |Data Type
+
+
+
+
