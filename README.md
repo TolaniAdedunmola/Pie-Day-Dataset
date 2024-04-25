@@ -40,7 +40,7 @@ The pie-day dataset is designed to provide a glimpse into potential attributes a
 
 
 
-# Data Source and Tools 
+# Data Source 
 
 This dataset was compiled by Dahel Techies for internship purposes.It is an excel file.Excel was used for Data Exploration,Cleaning and preparation.The data was brought into Power BI, for Analysis and Visualization. 
 
