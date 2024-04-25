@@ -10,4 +10,5 @@ The data used in this project was compiled and analyzed as part of my internship
 
 ### Content
 
--[Project Overview](#project-Overview)
+- [Project Overview](#project-Overview)
+- [Data Source and Tools](#data-source and Tools)
