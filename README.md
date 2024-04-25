@@ -57,8 +57,7 @@ Download Dataset
 
 # DashBoard
 
-<!-- Banner Text -->
-<img src="https://github.com/TolaniAdedunmola/Pie-Day-Dataset/blob/main/Pie%20day%20data%20dashboard.PNG">
+
 
 # Insight
 
