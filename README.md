@@ -15,6 +15,8 @@ The data used in this project was compiled and analyzed as part of my internship
 - [Data Source](#data-source)
 - [Data Processing](#data-processing)
 - [Dashboard](#dashboard)
+- [Insight](#insight)
+- [Recommendations](#recommendations)
 
 # Project Overview 
 
@@ -57,7 +59,8 @@ Download Dataset
 <!-- Banner Text -->
 <img src="https://github.com/TolaniAdedunmola/Pie-Day-Dataset/blob/main/Pie%20day%20data%20dashboard.PNG">
 
+# Insight
 
 
-
+# Recommendations
 
