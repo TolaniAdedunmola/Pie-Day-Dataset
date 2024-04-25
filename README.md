@@ -21,26 +21,32 @@ The data used in this project was compiled and analyzed as part of my internship
 # Project Overview 
 
 The pie-day dataset is designed to provide a glimpse into potential attributes and entries of pie-day dataset which can be used for analysis and insight of pie sales, customer behavior and Business Performance. 
- The dataset contains Order No,Order Date, Month/Year,Day of Week, Pie Flavor, Quantity, Cost, Slice Or Whole Pie, Pre-Order/In-Store Purchase, Organic?.
+ The dataset contains Order No,Order Date, Month/Year,Day of Week, Pie Flavor, Quantity, Cost per unit, Total  cost, Slice Or Whole Pie, Pre-Order/In-Store Purchase, Organic?.
 
 
 ## Data Dictionary
 
-| Column Name          | Description                                             | Data Type       |
-|----------------------|---------------------------------------------------------|-----------------|
-| Order NO             | Unique identifier for each order                         | Alphanumeric    |
-| Order Date           | Date when the order was placed                           | Date (YYYY-MM-DD) |
-| Month/Year           | Month and year of the order                              | String (MMM-YYYY) |
-| Day of Week          | Day of the week corresponding to the order date          | String          |
-| Pie Flavor           | Flavor of the pie                                        | String          |
-| Quantity             | Number of pies ordered                                   | Integer         |
-| Cost                 | Total cost associated with the order                      | Float (currency)|
-| Slice Or Whole Pie   | Indicates if the order is for a slice or a whole pie     | String          |
-| Pre-Order/In-Store Purchase | Specifies if the pie was pre-ordered or purchased in-store | String      |
-| Organic?             | Indicates if the pie is organic                           | Boolean (True/False) |
+| Field Name             | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| Order NO               | A unique identifier for each order                                          |
+| Order Date             | The date when the order was placed                                          |
+| Month/Year             | The month and year of the order, providing a consolidated view              |
+| Day of Week            | The day of the week corresponding to the order date                          |
+| Pie Flavor             | The flavor of the pie in the order                                           |
+| Quantity               | The number of pies ordered in the specific order                             |
+| Cost                   | The cost associated with one unit of pie (per slice or whole pie)           |
+| Slice Or Whole Pie     | Indicates whether the order is for a slice or a whole pie                   |
+| Pre-Order/In-Store     | Specifies if the pie was pre-ordered or purchased in-store                  |
+| Organic?               | Indicates whether the pie is organic or not                                 |
+| Total Cost             | The total cost associated with the order, calculated as Quantity * Cost      |
 
+### Description of "Total Cost" Field:
+- **Total Cost**: The total cost of the order, calculated as the product of the quantity of pies ordered (`Quantity`) and the cost per unit (`Cost`). This field represents the overall monetary amount spent on pies for each order.
 
+Please refer to this data dictionary for understanding the structure and meaning of the columns in the Pie Day dataset. If you have any questions or require further information, feel free to reach out!
 
+## Dataset Usage
+You can download the dataset file from [here](link_to_dataset_file).
 # Data Source 
 
 This dataset was compiled by Dahel Techies for internship purposes.It is an excel file.Excel was used for Data Exploration,Cleaning and preparation.The data was brought into Power BI, for Analysis and Visualization. 
