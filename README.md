@@ -60,7 +60,7 @@ This dataset was compiled by Dahel Techies for internship purposes.It is an exce
 - The Data was Transformed in Power Query
 - No cleaning was done because column quality was 100%, data type was accurate, there were no missing values,duplicate values or error in the data.
 - Data was loaded into Power BI.
-- created Dax to Ascertain number of pie pre-ordered/in-store and pie ordered where slice/whole
+- created Dax to Ascertain number of pie pre-ordered/in-store and if the pie ordered were in slices/whole
 
 # DashBoard
 
