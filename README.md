@@ -65,7 +65,7 @@ This dataset was compiled by Dahel Techies for internship purposes.It is an exce
 # DashBoard
 
 <!-- Banner Text -->
-<img src="https://github.com/TolaniAdedunmola/Pie-Day Dataset/blob/main/pie%20day%20data%20dashboard.PNG">
+<img src="https://github.com/TolaniAdedunmola/Pie-Day-Dataset/blob/main/pie%20day%20data%20dashboard.PNG">
 
 
 
