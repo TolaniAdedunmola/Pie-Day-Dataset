@@ -104,7 +104,7 @@ This dataset was compiled by Dahel Techies for internship purposes.It is an exce
 - Visual Presentation: Pay attention to the visual presentation of the remaining 
 pie flavors, both in-store and online. Use attractive packaging and visually appealing displays to entice customers and showcase the unique qualities of the new flavors.
 
--Whole Pie Focus: Since most customers prefer whole pies over sliced ones, focus on promoting whole pies as the preferred option. Highlight the convenience and freshness of whole pies, and consider offering special deals or bundles for purchasing whole pies.
+- Whole Pie Focus: Since most customers prefer whole pies over sliced ones, focus on promoting whole pies as the preferred option. Highlight the convenience and freshness of whole pies, and consider offering special deals or bundles for purchasing whole pies.
 
 
 
