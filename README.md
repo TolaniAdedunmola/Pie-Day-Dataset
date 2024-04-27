@@ -79,9 +79,9 @@ This dataset was compiled by Dahel Techies for internship purposes.It is an exce
 - 1420(51.21%) of pie were pre-ordered and 1353(48.79%) was purchased in-store.
 - Most of the pie ordered were whole and not sliced.
 
--2119 organic pie was ordered which is 76% of all orders made.
--There were 6 pie flavor and others in which Apple flavor had the highest number of orders, followed by strawberry  and pumpkin.
--The month of April had the highest cost of order of $52K and the total quantity ordered was 1169.
+- 2119 organic pie was ordered which is 76% of all orders made.
+- There were 6 pie flavor and others in which Apple flavor had the highest number of orders, followed by strawberry  and pumpkin.
+- The month of April had the highest cost of order of $52K and the total quantity ordered was 1169.
 - It can be deduced from this  findings that most of the customers prefer to pre-order the pie instead of purchasing at the store. 
 
 
