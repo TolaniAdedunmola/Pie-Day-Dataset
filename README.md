@@ -78,11 +78,42 @@ This dataset was compiled by Dahel Techies for internship purposes.It is an exce
 
 - 1420(51.21%) of pie were pre-ordered and 1353(48.79%) was purchased in-store.
 - Most of the pie ordered were whole and not sliced.
+
 -2119 organic pie was ordered which is 76% of all orders made.
 -There were 6 pie flavor and others in which Apple flavor had the highest number of orders, followed by strawberry  and pumpkin.
 -The month of April had the highest cost of order of $52K and the total quantity ordered was 1169.
-it can be deduced from this  findings that most of the customers prefer the pie with apple flavor which are organic.The analysis also shows that the whole pie is more preferred as against the sliced.
-The pre-ordered pie is also more preferred to the in-store purchase.
+- It can be deduced from this  findings that most of the customers prefer to pre-order the pie instead of purchasing at the store. 
+
+
+# Recommendations 
+
+- Given the popularity of apple-flavored pies, consider launching targeted marketing campaigns or promotions to further capitalize on this demand. Highlight the unique qualities of apple pies, such as freshness or homemade taste, to attract more customers.
+
+- Since organic pies accounted for the majority of orders, emphasize the organic and natural ingredients used in your pie. Highlighting the health benefits. sustainability aspects of organic products   can appeal to environmentally-conscious consumers and attract a larger customer base.
+
+- Since pre-ordered pies were more popular than in-store purchases, consider offering incentives or discounts for pre-orders to encourage more customers to order in advance. This can help with better production planning and inventory management while also improving customer satisfaction.
+
+- Product Variety: While apple flavor is popular, continue to diversify the pie flavors offered to cater to different preferences. Work on improving the remaining flavors by organizing taste testing events or surveys to gather feedback from customers on these flavors.Use this feedback to refine recipes and ensure they meet customer preferences.
+
+- Promotional Campaigns: Launch targeted promotional campaigns to promote other pie flavors. Highlight their  unique qualities and taste profiles to generate interest and excitement among customers.
+
+- Cross-Promotions: Partner with local businesses, restaurants, or cafes to cross-promote the othervpie flavors. Collaborate on special events or menu items that feature your pies, allowing customers to discover and try new flavors in different settings.
+
+- Customer Engagement: Engage with customers through social media, email newsletters, or loyalty programs to generate buzz and excitement around new pie flavors. Encourage customers to share their experiences and feedback, creating a sense of community and involvement.
+
+- Visual Presentation: Pay attention to the visual presentation of the remaining 
+pie flavors, both in-store and online. Use attractive packaging and visually appealing displays to entice customers and showcase the unique qualities of the new flavors.
+
+-Whole Pie Focus: Since most customers prefer whole pies over sliced ones, focus on promoting whole pies as the preferred option. Highlight the convenience and freshness of whole pies, and consider offering special deals or bundles for purchasing whole pies.
+
+- Cost Management: Analyze the cost breakdown of pie production to identify areas where cost savings can be achieved without compromising on quality. This can help improve profitability and ensure the company's financial sustainability.
+
+
+By implementing these strategies, you can effectively improve the popularity and sales of all the pie flavors, expanding your product offerings and attracting new customers to your business. these recommendations, you can optimize sales performance, enhance customer preference and drive business growth in the pie industry.
+
+
+
+
 
 
 
